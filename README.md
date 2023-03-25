@@ -1,7 +1,7 @@
 # Netflix_Movies_and_TV_Shows_Clustering
 This repository contains a dataset of Netflix movies and TV shows, along with a Jupyter notebook that demonstrates how to cluster the dataset using Python and scikit-learn. The dataset includes information about each title's title, director, cast, country, date added, release year, rating, duration, and listed in multiple genres.
 
-## Dataset
+### Dataset
 
 The dataset is provided in CSV format and is located in the data directory. The dataset contains 7787 rows and 12 columns, with each row representing a unique Netflix title. The columns are as follows:
 
